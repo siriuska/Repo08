@@ -1,4 +1,4 @@
-var dress = "little dress"
+var dress = "little dress";
 
 function myDress() {
     var dress = "ball gown";

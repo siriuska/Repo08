@@ -1,2 +1,2 @@
 # Repo08
-JS functions, 
+JS functions

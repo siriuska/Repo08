@@ -1,5 +1,5 @@
 function reusableFunction() {
-    console.log("It's a sunny day today!");
+    console.log("Hi Padawan!");
 }
 reusableFunction();
 
